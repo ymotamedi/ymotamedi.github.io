@@ -60,3 +60,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.img-circle {
+    border-radius: 50%;
+}
